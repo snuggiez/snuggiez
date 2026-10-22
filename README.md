@@ -1,4 +1,4 @@
-![Hidden Lagoon Studios — retrofärger, egna karaktärer och nyfikna experiment](assets/hidden-lagoon-studios.svg?v=2)
+![Hidden Lagoon Studios — retrofärger, egna karaktärer och nyfikna experiment](https://raw.githubusercontent.com/snuggiez/snuggiez/e69e0bc239a8d63e95f8375fb9a26f6081c5f5ec/assets/hidden-lagoon-studios.svg)
 
 # HIDDEN LAGOON STUDIOS 🌴
 **Retrofärger. Egna karaktärer. Nyfikna experiment.**
