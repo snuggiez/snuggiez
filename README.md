@@ -1,24 +1,19 @@
-![Hidden Lagoon Studios – Hidden Cove med studions original­logga](assets/hidden-lagoon-banner-original-v1.png)
+![Hidden Lagoon Studios – Hidden Cove med studions originallogga](assets/hidden-lagoon-banner-original-v1.png)
 
-# HIDDEN LAGOON STUDIOS 🌴
+# Hidden Lagoon Studios 🌴
 
-Hej! Jag är skaparen bakom **snuggiez** och Hidden Lagoon Studios.
-
-Jag bygger ett eget speluniversum och lär mig webbutveckling genom att förvandla idéer till saker som går att se, klicka på och spela. Jag gillar starka färger, lekfulla detaljer och karaktärer med personlighet.
+Jag är skaparen bakom **Snuggiez** och **Hidden Lagoon**. Jag bygger en egen spelvärld med katter, kustmiljöer och udda invånare — med mycket personlighet i både figurer och detaljer.
 
 ## 🎮 Hidden Lagoon
-Mitt pågående spelprojekt med katter, kustmiljöer och udda invånare.
 
-Här utforskar jag hur illustrationer, ljud och interaktion kan bli en sammanhängande spelvärld i webbläsaren. Projektet är under utveckling och mina publika repositories innehåller olika experiment och versioner.
+Ett spelprojekt under utveckling där miljöer, illustrationer, ljud och interaktion möts i webbläsaren.
 
-[Utforska Hidden Lagoon →](https://github.com/snuggiez/hiddenlagoon)
+Mina publika repositories innehåller olika versioner och experiment från arbetet.
 
-## 🛠️ Så arbetar jag
-Jag driver idéerna och den kreativa riktningen och använder AI som stöd för kod, felsökning och förklaringar.
+[Utforska projektet →](https://github.com/snuggiez/hiddenlagoon)
 
-Arbetet är AI-stött, och jag utvecklar samtidigt min egen förståelse för HTML, CSS och JavaScript. Projekten här visar både det jag skapar och det jag lär mig längs vägen.
+## 🛠️ Bakom kulisserna
 
-## 📡 Just nu
-Jag fokuserar på att få ordning på Hidden Lagoon, göra projektet lättare att förstå och fortsätta lära mig genom praktiskt arbete.
+Jag driver idéerna och den kreativa riktningen. AI är en del av arbetsprocessen och hjälper till med kod, felsökning och utveckling av prototyper.
 
-*You've found our little corner of the internet.*
+Just nu ligger fokus på att få spelets olika delar att hänga ihop och ge Hidden Lagoon en tydligare helhet.
