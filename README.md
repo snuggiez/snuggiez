@@ -12,6 +12,34 @@ Mina publika repositories innehåller olika versioner och experiment från arbet
 
 [Utforska projektet →](https://github.com/snuggiez/hiddenlagoon)
 
+## Fler projekt från studion
+
+### 🐠 FISHDEX
+En illustrerad akvarieapp med artkort, samling och ett eget digitalt akvarium.
+
+**Prototyp under utveckling.** Artuppgifterna är preliminära och inte faktagranskade.
+
+[Prova FISHDEX →](https://fishdex-lagoon-test.netlify.app/)
+
+### 🚲 Cykeltåget
+En webbapp för att utforska tågresor med cykeln som resesällskap.
+
+**Under utveckling.**
+
+[Utforska Cykeltåget →](https://cykeltaget.netlify.app/)
+
+### 🐸 SYV-ARNA
+En prototyp där elever kan utforska intressen, yrken och gymnasievägar — själva eller tillsammans med en studie- och yrkesvägledare.
+
+**Testdemo under utveckling.**
+
+[Prova SYV-ARNA →](https://syv-arna-test.netlify.app/)
+
+### 💙 Lilla kompisen
+En digital figur med uttrycksfulla ögon, små reaktioner och lekfulla interaktioner.
+
+**Lokal prototyp — ingen publik demo ännu.**
+
 ## 🛠️ Bakom kulisserna
 
 Jag driver idéerna och den kreativa riktningen. AI är en del av arbetsprocessen och hjälper till med kod, felsökning och utveckling av prototyper.
