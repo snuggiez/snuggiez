@@ -1,10 +1,10 @@
-![Hidden Lagoon Studios – Hidden Cove med studions originallogga](assets/hidden-lagoon-banner-original-v1.png)
+![Hidden Lagoon Studios](assets/lagoongit.png)
 
 # Hidden Lagoon Studios 🌴
 
 Jag är skaparen bakom **Snuggiez** och **Hidden Lagoon**. Jag bygger en egen spelvärld med katter, kustmiljöer och udda invånare — med mycket personlighet i både figurer och detaljer.
 
-## 🎮 Hidden Lagoon![Hidden Lagoon Studios](assets/lagoongit.png)
+## 🎮 Hidden Lagoon
 
 Ett spelprojekt under utveckling där miljöer, illustrationer, ljud och interaktion möts i webbläsaren.
 
