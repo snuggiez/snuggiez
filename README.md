@@ -14,6 +14,13 @@ Mina publika repositories innehåller olika versioner och experiment från arbet
 
 ## Fler projekt från studion
 
+### ⌨️ CrispKeys
+Min dator har för tillfället ett italienskt tangentbord. Jag ville både få ett bättre ljud när jag skriver och kunna skriva rätt symboler — det blev startpunkten för CrispKeys.
+
+En macOS-app med valbara ljudprofiler, volymkontroll och separat ljudutgång för tangentljuden.
+
+**Lokal app under utveckling — ingen publik nedladdning ännu.**
+
 ### 🐠 FISHDEX
 En illustrerad akvarieapp med artkort, samling och ett eget digitalt akvarium.
 
