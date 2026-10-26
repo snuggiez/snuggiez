@@ -15,6 +15,9 @@ Mina publika repositories innehåller olika versioner och experiment från arbet
 ## Fler projekt från studion
 
 ### ⌨️ CrispKeys
+
+<img src="https://github.com/user-attachments/assets/afdec573-5294-4820-8c85-f31631e2259f" alt="CrispKeys – ljudprofiler, volymkontroll och val av ljudutgång" width="520" />
+
 Min dator har för tillfället ett italienskt tangentbord. Jag ville både få ett bättre ljud när jag skriver och kunna skriva rätt symboler — det blev startpunkten för CrispKeys.
 
 En macOS-app med valbara ljudprofiler, volymkontroll och separat ljudutgång för tangentljuden.
