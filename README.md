@@ -8,9 +8,7 @@ Jag är skaparen bakom **Snuggiez** och **Hidden Lagoon**. Jag bygger en egen sp
 
 En egen spelvärld under utveckling, med katter, kustmiljöer och udda invånare. Här arbetar jag med figurer, illustrationer, miljöer, ljud och gränssnitt som tillsammans ger lagunen sin personlighet.
 
-**Spelprojekt under utveckling.** På GitHub finns versioner och experiment från arbetet.
-
-[Utforska projektet →](https://github.com/snuggiez/hiddenlagoon)
+**Spelprojekt under utveckling.**
 
 ## Fler projekt från studion
 
