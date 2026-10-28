@@ -49,9 +49,3 @@ En prototyp där elever kan utforska intressen, yrken och gymnasievägar — sj�
 En digital figur med uttrycksfulla ögon, små reaktioner och lekfulla interaktioner.
 
 **Lokal prototyp — ingen publik demo ännu.**
-
-## 🛠️ Bakom kulisserna
-
-Jag driver idéerna och den kreativa riktningen. AI är en del av arbetsprocessen och hjälper till med kod, felsökning och utveckling av prototyper.
-
-Just nu ligger fokus på att få spelets olika delar att hänga ihop och ge Hidden Lagoon en tydligare helhet.
